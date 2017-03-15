@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MockMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">Next</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">MockMap.</string>
+    <string name="slide_1_desc">Text Text Text.</string>
+
+    <string name="slide_2_title">Tutorial 1.</string>
+    <string name="slide_2_desc">Text Text Text.</string>
+
+    <string name="slide_3_title">Tutorial 2.</string>
+    <string name="slide_3_desc">Text Text Text.</string>
+
+    <string name="slide_4_title">Tutorial 3.</string>
+    <string name="slide_4_desc">Text Text Text.</string>
+
+    <string name="search">Search</string>
+    <string name="map_type">Change Map Type</string>
+    <string name="traffic">Show Traffic</string>
+
+    <string name="travel">Change Travel Mode Default is Driving</string>
+    <string name="btn_ok">OK</string>
+    <string name="select_filter_please">Please Select To Filter</string>
+</resources>
